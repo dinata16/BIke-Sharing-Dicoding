@@ -47,10 +47,11 @@ You can see the detail of Visualization on the [Jupyter Notebook](https://github
 ## 3. 📊 Dashboard on Streamlit
 This dashboard  shows the total of bike-sharing across years and seasons. You can check it the details on [streamlit cloud](https://bikesharing-rizkdin.streamlit.app/)
 
-<p align="center">
-  <img src="/image/preview_dashboard.png" />
 
-### Run Streamlit in the local
+![alt text](https://raw.githubusercontent.com/dinata16/Analisi-Data-Python/main/image/preview_dashboard.png)
+
+
+### Run Streamlit in the local  
  
 #### Install library
 
