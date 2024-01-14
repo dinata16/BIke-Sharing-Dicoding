@@ -1,5 +1,5 @@
 # 🚲 Bikesharing Analysis and Dashboard
-This is final project from Dicoding Course in the 'Belajar Analisis Data dengan Python' to make analysis and dashboard from bike-sharing dataset (see the detail of data on the [Datasets Bike Sharing](https://www.kaggle.com/competitions/bike-sharing-demand)).
+This is final project from Dicoding Course in the 'Belajar Analisis Data dengan Python' to make analysis and dashboard from bike-sharing dataset (see the detail of data on the [Datasets Bike Sharing](https://www.kaggle.com/competitions/bike-sharing-demand).
 
 ## 1. 📂 Structure Files
 ```
@@ -24,7 +24,7 @@ This is final project from Dicoding Course in the 'Belajar Analisis Data dengan 
 
 ## 2. 📝 Analysis with Notebook
 
-You can see the detail of Visualization on the [Jupyter Notebook](https://github.com/dinata16/Analisi-Data-Python/blob/main/Submission_Analisis_Data_dengan_Python.ipynb)
+You can see the detail of Visualization on the [Jupyter Notebook](https://github.com/dinata16/Bike-Sharing-Dicoding/blob/main/Submission_Analisis_Data_dengan_Python.ipynb)
 
 ### 2.1 Project Work on Notebook
 1. Data Wrangling
@@ -48,7 +48,7 @@ You can see the detail of Visualization on the [Jupyter Notebook](https://github
 This dashboard  shows the total of bike-sharing across years and seasons. You can check it the details on [streamlit cloud](https://bikesharing-rizkdin.streamlit.app/)
 
 
-![alt text](https://raw.githubusercontent.com/dinata16/Analisi-Data-Python/main/image/preview_dashboard.png)
+![alt text](https://raw.githubusercontent.com/dinata16/Bike-Sharing-Dicoding/main/image/preview_dashboard.png)
 
 
 ### Run Streamlit in the local  
