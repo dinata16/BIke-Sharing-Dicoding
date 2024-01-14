@@ -4,7 +4,7 @@ This is final project from Dicoding Course in the 'Belajar Analisis Data dengan 
 ## 1. 📂 Structure Files
 ```
 .
-📦Analisi-Data-Python
+📦Bike-Sharing-Dicoding
  ┣ 📂dashboard
  ┃ ┣ 📜alldata_bikeshare.csv
  ┃ ┗ 📜dashboard_bikeshares.py
