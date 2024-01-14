@@ -12,7 +12,7 @@ st.set_page_config(page_title="Bikes-Sharing Dashboard",
                    layout="wide")
 
 #Input data harian ke src
-df_day = pd.read_csv("https://raw.githubusercontent.com/dinata16/Analisi-Data-Python/main/datasets/alldata_bikeshare.csv")
+df_day = pd.read_csv("https://raw.githubusercontent.com/dinata16/Bike-Sharing-Dicoding/main/datasets/alldata_bikeshare.csv")
 df_day['dteday'] = pd.to_datetime(df_day['dteday'])
 
 #Hapus kolom yang tidak perlu
@@ -142,7 +142,7 @@ min_date = df_day["dateday"].min()
 max_date = df_day["dateday"].max()
 
 with st.sidebar:
-    st.image("https://raw.githubusercontent.com/dinata16/Analisi-Data-Python/main/image/pngwing.com.png")
+    st.image("https://raw.githubusercontent.com/dinata16/Bike-Sharing-Dicoding/main/image/pngwing.com.png")
     
     start_date, end_date = st.date_input(
         label='Select Time Range: ',
