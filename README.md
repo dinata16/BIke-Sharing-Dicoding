@@ -19,7 +19,7 @@ This is final project from Dicoding Course in the 'Belajar Analisis Data dengan 
  ┃ ┗ 📜preview_dashboard.png
  ┣ 📜README.md
  ┣ 📜requirements.txt
- ┗ 📜Submission_Analisis_Data_dengan_Python.ipynb
+ ┗ 📜Submission_Data_Analysis_with_Python.ipynb
 ```
 
 ## 2. 📝 Analysis with Notebook
